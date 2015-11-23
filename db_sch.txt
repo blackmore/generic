@@ -1,1 +1,1 @@
-version 02 db schema 
+version 04 db schema 
